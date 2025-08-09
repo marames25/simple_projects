@@ -1,9 +1,7 @@
 // Program:  Subtract a square. This is a two-player mathematical game of strategy. It is played by two
 // people with a pile of coins (or other tokens) between them. The players take turns removing
 // coins from the pile, always removing a non-zero square number of coins, The player who removes the last coin wins.
-// Author: Maram Esmaeil Abd-Elfattah
-// Section: s21,22
-// ID: 20231156
+
 // Version: v.01
 // Date: March 1,2024
 #include <bits/stdc++.h>
