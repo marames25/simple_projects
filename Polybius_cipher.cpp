@@ -1,7 +1,5 @@
 // Program: . Each letter is replaced with two numbers according to the following table. Write another version where top and left numbers are given as a key, e.g., instead of 1 |  2 | 3 | 4 | 5 , user can enter the key   2 |  4 | 5 | 3 | 1 but you will need to have the same key to decipher the message
-// Author: Maram Esmaeil Abd-Elfattah
-// Section: s17,18
-// ID: 20231156
+
 // Version: v.02
 // Date: March 1,2024
 #include <iostream>
