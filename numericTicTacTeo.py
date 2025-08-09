@@ -1,7 +1,5 @@
 # program : A board of 3 x 3 is displayed and player 1 takes odd numbers 1, 3, 5, 7, 9 and player 2 takes even numbers 0, 2, 4, 6, 8. Players take turns to write their numbers. Odd numbers start. Use each number only once. The first person to complete a line that adds up to 15 is the winner. The line can have both odd and even numbers.  the last coin wins.
-# Author : Maram Esameil Abd-Elfattah
-#section: s12,s22
-#ID: 20231156
+
 #version: V.01
 #Date: March 3,2024
 
@@ -96,3 +94,4 @@ while True:
             print("Please choice between A or B")
             continue
         break
+
